@@ -23,7 +23,7 @@ namespace Caesar_Cypher
                       if (plainTextArr[i] == alphabet[k])
                       {
                         plainTextArr[i] = alphabet[k + 3];
-                        letterFound = true; s
+                        letterFound = true; 
                       }
                 }
             }
